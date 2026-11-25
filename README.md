@@ -4,7 +4,7 @@ Arabic / English school and nursery management demo. Students and classes, daily
 
 **Live demo:** https://madrasaty-three.vercel.app
 
-Product direction by Nada Gamal. Implementation is AI-assisted, not hand-written by her.
+Product direction, scope and delivery: Nada Gamal.
 
 ## Demo accounts (PINs are shown on the sign-in screen)
 | Role | PIN | Who |
@@ -52,6 +52,3 @@ A sample printable report card is in `docs/sample-report-card.pdf`.
 
 ## Deploy
 Vercel project with the `api/` function and optional Blob store (`BLOB_READ_WRITE_TOKEN`). `node dev-server.mjs` runs it locally.
-
-## Built with AI assistance
-Implementation was written with AI assistance. Nada Gamal set the product direction and requirements.
